@@ -47,7 +47,7 @@ public class PersonService {
 		return person;
 	}
 
-	public void deleteall() {
+	public void deleteAll() {
 		lstPersons.removeAll(lstPersons);
 	}
 	
